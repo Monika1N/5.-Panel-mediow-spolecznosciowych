@@ -1,2 +1,2 @@
-# Panel-mediow-spolecznosciowych
-https://monika1n.github.io/Panel-mediow-spolecznosciowych/
+# Panel mediów społecznościowych
+https://monika1n.github.io/5.-Panel-mediow-spolecznosciowych/
